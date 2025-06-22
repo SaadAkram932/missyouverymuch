@@ -1,0 +1,15 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+canvas{
+    border: 3px solid black;
+    margin: 0.5em;
+}
+
+#colors form {
+  display: flex;
+  gap: 10px; /* Optional: adds spacing between inputs */
+  align-items: center; /* Aligns vertically if needed */
+}
